@@ -6,4 +6,4 @@ GPyTorch is a highly efficient and modular implementation with GPU acceleration.
 BoTorch is a PyTorch-related library for Bayesian optimization.
 AllenNLP is an open-source NLP research library, built on PyTorch.
 PyTorch is also well-received by major cloud platforms, allowing developers and engineers to do large-scale training jobs on GPUs with PyTorch.
-PyTorch’s cloud support also provides the ability to run models in a production environment. Not only that, we can also scale our PyTorch model using the cloud.  work with We can also work with PyTorch using AWS Sagemaker (AWS CLoud).
+PyTorch’s cloud support also provides the ability to run models in a production environment. Not only that, we can also scale our PyTorch model using the cloud. We can also work with PyTorch using AWS Sagemaker (AWS CLoud).
